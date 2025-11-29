@@ -1,0 +1,11 @@
+# Core Dependencies
+numpy>=1.20.0
+
+# Optional: For real LLM integration (comment out if using mock LLM only)
+anthropic>=0.18.0
+
+# Development Dependencies (optional, for testing and development)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# mypy>=1.0.0

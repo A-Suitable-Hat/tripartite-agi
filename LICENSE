@@ -1,0 +1,77 @@
+NON-COMMERCIAL RESEARCH LICENSE
+
+Copyright (c) 2025 Timothy Aaron Danforth
+
+PERMITTED USES:
+This software and associated documentation files (the "Software") may be used
+for the following purposes only:
+
+1. Academic research and education
+2. Scientific experimentation and testing
+3. Non-commercial evaluation and validation
+4. Personal learning and study
+5. Reproduction of published research results
+
+PROHIBITED USES:
+The Software may NOT be used for any commercial purposes, including but not
+limited to:
+
+1. Use in commercial products or services
+2. Use by for-profit organizations or entities
+3. Use that generates revenue, whether direct or indirect
+4. Use in commercial research and development
+5. Use as part of consulting or professional services
+6. Integration into commercial software or systems
+
+This prohibition applies regardless of whether profit is obtained or intended.
+
+GRANT OF RIGHTS:
+Subject to the above restrictions, permission is hereby granted, free of charge,
+to any person obtaining a copy of this Software, to use, copy, modify, merge,
+and distribute the Software for non-commercial purposes only, subject to the
+following conditions:
+
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+2. Any research, publication, or presentation that uses this Software must
+   cite the original work and acknowledge the authors.
+
+3. Modified versions must be clearly marked as such and must retain this
+   license.
+
+4. Distribution of the Software or modified versions must include this license
+   and maintain the non-commercial restriction.
+
+COMMERCIAL LICENSING:
+For commercial use, licensing inquiries, or exceptions to this license, please
+contact t.aaron.danforth@gmail.com.
+
+DISCLAIMER:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+SAFETY NOTICE:
+This Software implements an AGI architecture with safety mechanisms designed
+for research purposes. It is NOT intended for deployment in production systems,
+critical infrastructure, or any application where failure could result in harm
+to persons or property. Users assume all responsibility for safe and appropriate
+use of this Software.
+
+================================================================================
+
+This is a custom research license. It is more restrictive than standard open
+source licenses (MIT, Apache, GPL) due to the prohibition on commercial use.
+
+For standard definitions:
+- "Commercial use" means any use primarily intended for or directed toward
+  commercial advantage or monetary compensation.
+- "Non-commercial" means use where there is no expectation of commercial
+  advantage or monetary compensation.
+- Academic institutions and non-profit research organizations are considered
+  non-commercial for their research and educational activities.
