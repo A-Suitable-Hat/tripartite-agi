@@ -22,7 +22,7 @@ Embodiment → Unconscious (trigger) → Subconscious (emotion) →
 Conscious (deliberation) → Unconscious (veto) → Embodiment (action)
 ```
 
-### Four Cognitive Layers
+### Three Cognitive Layers and One Physical Layer
 
 1. **Embodiment Layer** - Sensors and actuators (physical grounding)
 2. **Unconscious Layer** - Core Drive monitoring, veto authority (NO LLM, purely deterministic)
